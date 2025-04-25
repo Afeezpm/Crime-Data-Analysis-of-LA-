@@ -94,18 +94,6 @@ Adult Arrested: 13.81%
 Juvenile Arrested: 0.53%
 
 
-📁 File Structure
-bash
-Copy
-Edit
-Crime_Analysis_of_Los_Angeles/
-│
-├── Crime_Analysis_of_Los_Angeles-Afi.pbix   # Power BI report file
-├── README.md                                # Project documentation
-├── screenshots/                             # Dashboard visuals
-│   ├── crime-overview.png
-│   ├── victim-analysis.png
-│   └── overall-analysis.png
 📌 How to Use
 
 Download the .pbix file.
