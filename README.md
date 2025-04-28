@@ -1,6 +1,7 @@
-📊 Crime Data Analysis of LA
-    
+📊 Crime Data Analysis of LA	
 
+	 
+	
 This Power BI project offers a comprehensive analysis of crime incidents in Los Angeles from 2022 to 2025. The dashboard provides valuable insights into crime trends, victim demographics, offense types, locations, and reporting behavior, enabling data-driven decision-making for policy makers, law enforcement, and researchers.
 
 
@@ -154,26 +155,6 @@ Juvenile Arrested: 0.53%
 •	Most Affected Age Group: 18 to 35 years (136K victims)
 
 
-•	Weapon Usage:
-
- o	Strong-Arm (Hands & Feet): 78.07%
-    
- o	Handguns: 7.99%
-    
- o	Verbal Threats: 10.98%
-    
-    
-•	Investigation Status:
-
-
-o	Investigation Continuing: 64.41%
-    
-o	Adult Arrested: 13.81%
-
-    
-•	Delayed Reporting: Samoan group reports took the longest (avg. 83.92 days)
-
-
 
 🖼️ Dashboard Visuals
 
@@ -187,6 +168,12 @@ o	Adult Arrested: 13.81%
     
 ![Overall](https://github.com/user-attachments/assets/3ddbc6d7-9891-417e-973a-0cbb197a8149)
 
+
+📦 Files Included
+
+LA_Crime_Cleaned-Afi.pbix : Preprocessed and cleaned dataset for modelling
+
+Crime_Analysis_of_Los_Angeles-Afi.pbix : Interactive Visual Dashboards
 
 
 📌 How to Use
